@@ -1,6 +1,6 @@
 {
-  "homepage":"https://im-avinash.github.io/ReactBoostrap/"
   "name": "rb-web",
+  "homepage":"https://im-avinash.github.io/ReactBoostrap/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
